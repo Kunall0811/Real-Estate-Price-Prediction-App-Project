@@ -14,14 +14,6 @@ The application is built using a trained regression model and deployed using Str
 
 ---
 
-🚀 Features
+👨‍💻 Author
 
-🔮 Real-time property price prediction
-
-📍 Location-based estimation
-
-📐 Takes input like area (sq ft), BHK, bathrooms
-
-🎨 Clean and responsive UI using Streamlit
-
-🌐 Fully deployed and accessible online
+Kunal Shelukar
