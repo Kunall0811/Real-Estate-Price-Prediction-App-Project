@@ -79,4 +79,4 @@ if st.button("💰 Predict Price"):
 
     st.markdown("---")
 
-st.info("💡 Note: Property price depends more on location & area than number of rooms alone.")
+st.info("💡 Note: Property price depends more on location, room space efficiency than number of rooms alone.")
