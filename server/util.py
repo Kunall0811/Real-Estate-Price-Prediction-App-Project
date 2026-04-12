@@ -44,4 +44,7 @@ def get_estimated_price(location, sqft, bath, bhk):
     if loc_index >= 0:
         x[loc_index] = 1
 
-    return round(__model.predict([x])[0], 2)
+    pred = __model.predict([x])[0]
+    price = np.exp(pred)
+
+    return round(price, 2)
