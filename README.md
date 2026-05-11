@@ -93,9 +93,7 @@ streamlit run app.py
 
 # 📸 Preview
 
-Add your project screenshot here:
-
-![App Preview](preview.png)
+[App Preview](preview.png)
 
 ---
 
