@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Real Estate Price Prediction App](https://realestate-price-prediction-app.streamlit.app/?utm_source=chatgpt.com)
+👉 [Real Estate Price Prediction App](https://realestate-price-prediction-app.streamlit.app/)
 
 ---
 
@@ -137,4 +137,4 @@ Add your project screenshot here:
 
 # 👨‍💻 Author
 
-## Kunal Shelukar
+### Kunal Shelukar
